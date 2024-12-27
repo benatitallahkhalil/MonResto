@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mon_resto_backend.props" />
+</Project>

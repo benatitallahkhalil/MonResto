@@ -1,0 +1,541 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\offre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\offre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\repository\\icategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\repository\\icategorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\repository\\commanderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\repository\\commanderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\controllers\\commandescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\controllers\\commandescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\repository\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\repository\\categorierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\menuarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\menuarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\monrestodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\monrestodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\controllers\\profilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\controllers\\profilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\controllers\\offrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\controllers\\offrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\repository\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\repository\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\repository\\offrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\repository\\offrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\repository\\ioffrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\repository\\ioffrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\models\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\models\\repository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|c:\\users\\khalil\\source\\repos\\mon_resto_backend\\mon_resto_backend\\migrations\\20241219213312_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61EB4C4-0DDD-45BE-820D-1891858F9D69}|Mon_resto_backend\\Mon_resto_backend.csproj|solutionrelative:mon_resto_backend\\migrations\\20241219213312_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\User.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:04:58.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:06:24.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwF8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:22:38.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategorieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\ICategorieRepository.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Repository\\ICategorieRepository.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\ICategorieRepository.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Repository\\ICategorieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:42:37.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Program.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Program.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Program.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAIYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:18:15.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Offre.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Offre.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Offre.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Offre.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Offre.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:39:02.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:24:06.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Article.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:42:35.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:30:46.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommandesController.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\CommandesController.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Controllers\\CommandesController.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\CommandesController.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Controllers\\CommandesController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAzwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:06:00.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\appsettings.json",
+              "RelativeToolTip": "Mon_resto_backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T21:30:45.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Service\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Service\\JwtService.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Service\\JwtService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:10:52.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:16:57.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:17:08.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommandeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\CommandeRepository.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Repository\\CommandeRepository.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\CommandeRepository.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Repository\\CommandeRepository.cs",
+              "ViewState": "AgIAACgAAAAAzczMzMwiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:04:24.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241219213312_final.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Migrations\\20241219213312_final.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Migrations\\20241219213312_final.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Migrations\\20241219213312_final.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Migrations\\20241219213312_final.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:33:12.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuArticle.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\MenuArticle.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\MenuArticle.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\MenuArticle.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\MenuArticle.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:03:58.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Categorie.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Categorie.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Categorie.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Categorie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:23:28.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategorieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\CategorieRepository.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Repository\\CategorieRepository.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\CategorieRepository.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Repository\\CategorieRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:23:48.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Dtos\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Dtos\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Dtos\\UpdateUserDto.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Dtos\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:09:13.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MonRestoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\MonRestoDbContext.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\MonRestoDbContext.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\MonRestoDbContext.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\MonRestoDbContext.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:20:01.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProfilController.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\ProfilController.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Controllers\\ProfilController.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\ProfilController.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Controllers\\ProfilController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:05:57.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenusController.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\MenusController.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Controllers\\MenusController.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\MenusController.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Controllers\\MenusController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:05:35.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Repository\\MenuRepository.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\MenuRepository.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Repository\\MenuRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:04:54.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\IMenuRepository.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Repository\\IMenuRepository.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\IMenuRepository.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Repository\\IMenuRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:04:59.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Menu.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Menu.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T14:04:14.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OffresController.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\OffresController.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Controllers\\OffresController.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Controllers\\OffresController.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Controllers\\OffresController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowDMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:40:07.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OffreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\OffreRepository.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Repository\\OffreRepository.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\OffreRepository.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Repository\\OffreRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:39:38.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOffreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\IOffreRepository.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Repository\\IOffreRepository.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\IOffreRepository.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Repository\\IOffreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:39:24.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Repository\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\ArticleRepository.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Repository\\ArticleRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:30:30.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "Mon_resto_backend\\Models\\Repository\\IArticleRepository.cs",
+              "ToolTip": "C:\\Users\\Khalil\\source\\repos\\Mon_resto_backend\\Mon_resto_backend\\Models\\Repository\\IArticleRepository.cs",
+              "RelativeToolTip": "Mon_resto_backend\\Models\\Repository\\IArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:30:17.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
